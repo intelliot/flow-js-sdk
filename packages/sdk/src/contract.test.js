@@ -24,7 +24,6 @@ interfaceContract("export", root)`
   isOk isBad why pipe
   getAccount getEvents getLatestBlock getTransactionStatus
   authorizations authorization
-  params param
   proposer payer
   ping script transaction
   limit ref
